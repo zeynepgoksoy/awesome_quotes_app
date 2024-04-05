@@ -1,6 +1,6 @@
 # quotes
 
-A new Flutter project.
+Basic quotes app template that shows quotes in card widget. Can make deletion on the quotes. The quotes is hard coded for now.
 
 ## Getting Started
 
